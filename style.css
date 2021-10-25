@@ -236,13 +236,13 @@ body {
 
 #head-element {
  flex-direction:row;
- justify-content:space-between;
+ justify-content:flex-start;
  margin-bottom:35px;
 } 
 
 .hero-image {
- max-width:300px;
- height:300px;
+ max-width:500px;
+ height:350px;
 } 
 
 #desktop-nav {
