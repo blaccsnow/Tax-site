@@ -192,13 +192,13 @@ body {
  color:#333;
 }
 
- .intro-two h3 {
+#section-two h3 {
  font-size:2.5rem;
  margin:20px 0 25px;
  color:#481f01;
 }
 
-.intro-two p {
+#section-two p {
  font-size:1.3rem;
  color:#333;
  margin:10px 0;
@@ -251,17 +251,17 @@ body {
  max-width:85%;
 } 
 
-.intro-two{
+#section-two{
  display:flex;
  justify-content:space-between;
  flex-direction:row-reverse;
 }
 
-.intro-two h3 {
+#section-two h3 {
  max-width:85%;
 } 
 
-.intro-two p {
+#section-two p {
  max-width:85%;
 } 
 
