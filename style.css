@@ -309,4 +309,8 @@ body {
 #imageflex {
  max-width:85%;
 } 
+
+#tall-image {
+ height:750px;
+} 
 } 
