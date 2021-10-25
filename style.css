@@ -230,8 +230,13 @@ body {
  flex-direction:row-reverse;
 }
 
+.intro h3 {
+ max-width:85%;
+} 
+
 .intro p {
  padding:0 10px;
+ max-width:85%;
 } 
 
 #head-element {
