@@ -230,6 +230,10 @@ body {
  flex-direction:row-reverse;
 }
 
+.intro p {
+ padding:0 10px;
+} 
+
 #head-element {
  flex-direction:row;
  justify-content:space-between;
