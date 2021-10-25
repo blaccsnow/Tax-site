@@ -311,12 +311,12 @@ body {
 } 
 
 #tall-image {
- height:600px;
+ height:630px;
 } 
 } 
 
 @media only screen and (min-width: 1200px) {
  #tall-image {
- height:520px;
+ height:500px;
 } 
 }
