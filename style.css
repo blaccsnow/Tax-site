@@ -4,6 +4,10 @@
  box-sizing:border-box;
 }
 
+html {
+ font-size:16px;
+} 
+
 body {
  background:#fff;
  color:#111;
@@ -316,6 +320,10 @@ body {
 } 
 
 @media only screen and (min-width: 1300px) {
+
+ html {
+  font-size:40px;
+} 
  #tall-image {
  height:450px;
 } 
