@@ -144,12 +144,12 @@ body {
  color:#333;
 }
 
-#hero-paragraph h4 {
+#hero-section h4 {
  text-align:left;
  font-size:1.5rem;
 }
 
-#hero-paragraph ul li {
+#hero-section ul li {
  text-align:left;
  margin:5px 0;
  font-size:1.3rem;
@@ -240,6 +240,7 @@ body {
 .intro {
  display:flex;
  justify-content:space-between;
+ margin-top:50px;
 }
 
 .intro h3 {
@@ -254,6 +255,7 @@ body {
  display:flex;
  justify-content:space-between;
  flex-direction:row-reverse;
+ margin-top:50px;
 }
 
 #section-two h3 {
