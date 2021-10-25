@@ -255,11 +255,12 @@ body {
 } 
 
 #hero-section p {
- max-width:40%;
+ max-width:60%;
 } 
 
 #hero-paragraph{
- max-width:60%;
+ max-width:550px;
+ height:400px;
 } 
 
 #menu-image {
