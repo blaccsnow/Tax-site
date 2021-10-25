@@ -321,6 +321,10 @@ body {
 #tall-image {
  height:500px;
 } 
+
+#t-image{
+ height:650px;
+} 
 } 
 
 @media only screen and (min-width: 1300px) {
