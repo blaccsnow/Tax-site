@@ -244,13 +244,11 @@ body {
 }
 
 .intro h3 {
- max-width:85%;
- margin-left:30px;
+ max-width:50%;
 } 
 
 .intro p {
- max-width:85%;
- margin-left:30px;
+ max-width:50%;
 } 
 
 #section-two{
