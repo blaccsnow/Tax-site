@@ -189,7 +189,6 @@ body {
  font-size:1.3rem;
  color:#333;
  margin:10px 0;
- color:#333;
 }
 
 #section-two h3 {
@@ -241,6 +240,7 @@ body {
 .intro {
  display:flex;
  justify-content:space-between;
+ flex-direction:row-reverse;
 }
 
 .intro h3 {
