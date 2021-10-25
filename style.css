@@ -301,4 +301,8 @@ body {
 #navigation h2 {
  display:none;
 } 
+
+#imageflex {
+ max-width:85%;
+} 
 } 
